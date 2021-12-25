@@ -5,7 +5,7 @@
 - 📋 Full Name: Joshua Egidio Fernandes
 - 🌱 I’m currently learning Java, having done a bit of Python and C Programming
 - 🥅 2022 Goals (here): Be more active on Github
-- 🏸 Fun fact: I like play Badminton in my free time
+- 🏸 Fun fact: I like to play Badminton in my free time
 
 ### Connect with me:
 
